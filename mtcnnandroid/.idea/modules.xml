@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MTCNN/MTCNN.iml" filepath="$PROJECT_DIR$/MTCNN/MTCNN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mtcnnandroid.iml" filepath="$PROJECT_DIR$/mtcnnandroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openCVLibrary331/openCVLibrary331.iml" filepath="$PROJECT_DIR$/openCVLibrary331/openCVLibrary331.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+#Fri Mar 09 10:39:33 CST 2018
+base.0=D\:\\study\\Android\\mtcnnandroid\\MTCNN\\build\\intermediates\\transforms\\dexMerger\\debug\\30
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,5 @@
+# ninja log v5
+5	723	0	CMakeFiles/mtcnn.dir/src/main/cpp/pBox.cpp.o	171c0d95b6a68449
+1	2040	0	CMakeFiles/mtcnn.dir/src/main/cpp/mtcnnDetect.cpp.o	c452045a8d7a63a8
+14	2417	0	CMakeFiles/mtcnn.dir/src/main/cpp/network.cpp.o	1c33c32c2c4e1d02
+10	2573	0	CMakeFiles/mtcnn.dir/src/main/cpp/mtcnn.cpp.o	7045fb5b6c7edf82

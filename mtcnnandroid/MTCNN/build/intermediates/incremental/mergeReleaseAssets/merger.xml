@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":openCVLibrary331"><source path="D:\study\Android\mtcnnandroid\openCVLibrary331\build\intermediates\bundles\release\assets"/></dataSet><dataSet config="main"><source path="D:\study\Android\mtcnnandroid\MTCNN\src\main\assets"/><source path="D:\study\Android\mtcnnandroid\MTCNN\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="D:\study\Android\mtcnnandroid\MTCNN\src\release\assets"/></dataSet></merger>

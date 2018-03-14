@@ -1,0 +1,19 @@
+#Mon Mar 12 11:43:51 CST 2018
+path.1=classes.dex
+path.0=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.5=D\:\\study\\Android\\mtcnnandroid\\MTCNN\\build\\intermediates\\transforms\\dexMerger\\debug\\36
+base.4=D\:\\study\\Android\\mtcnnandroid\\MTCNN\\build\\intermediates\\transforms\\dexMerger\\debug\\33
+base.3=D\:\\study\\Android\\mtcnnandroid\\MTCNN\\build\\intermediates\\transforms\\dexMerger\\debug\\34
+base.2=D\:\\study\\Android\\mtcnnandroid\\MTCNN\\build\\intermediates\\transforms\\dexMerger\\debug\\31
+base.1=D\:\\study\\Android\\mtcnnandroid\\MTCNN\\build\\intermediates\\transforms\\dexMerger\\debug\\32
+base.0=D\:\\study\\Android\\mtcnnandroid\\MTCNN\\build\\intermediates\\transforms\\dexMerger\\debug\\35
+path.5=classes.dex
+path.4=classes.dex
+path.3=classes.dex
+path.2=classes.dex

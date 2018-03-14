@@ -1,0 +1,45 @@
+{
+  "buildFiles": [
+    "D:\\study\\Android\\mtcnnandroid\\openCVTutorial2MixedProcessing\\src\\main\\jni\\Android.mk",
+    "D:\\study\\Android\\mtcnnandroid\\openCVTutorial2MixedProcessing\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "D:\\Tools\\AndroidSDK\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\study\\Android\\mtcnnandroid\\openCVTutorial2MixedProcessing\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\study\\Android\\mtcnnandroid\\openCVTutorial2MixedProcessing\\src\\main\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-14 NDK_OUT\u003dD:/study/Android/mtcnnandroid/openCVTutorial2MixedProcessing/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dD:\\study\\Android\\mtcnnandroid\\openCVTutorial2MixedProcessing\\build\\intermediates\\ndkBuild\\debug\\lib clean"
+  ],
+  "libraries": {
+    "mtcnn-debug-x86": {
+      "buildCommand": "D:\\Tools\\AndroidSDK\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\study\\Android\\mtcnnandroid\\openCVTutorial2MixedProcessing\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\study\\Android\\mtcnnandroid\\openCVTutorial2MixedProcessing\\src\\main\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-14 NDK_OUT\u003dD:/study/Android/mtcnnandroid/openCVTutorial2MixedProcessing/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dD:\\study\\Android\\mtcnnandroid\\openCVTutorial2MixedProcessing\\build\\intermediates\\ndkBuild\\debug\\lib D:/study/Android/mtcnnandroid/openCVTutorial2MixedProcessing/build/intermediates/ndkBuild/debug/obj/local/x86/libmtcnn.so",
+      "toolchain": "toolchain-x86",
+      "abi": "x86",
+      "artifactName": "mtcnn",
+      "files": [
+        {
+          "src": "D:\\study\\Android\\mtcnnandroid\\openCVTutorial2MixedProcessing\\src\\main\\jni\\mtcnn.cpp",
+          "flags": "\"-gcc-toolchain\" \"D:/Tools/AndroidSDK/ndk-bundle/build//../toolchains/x86-4.9/prebuilt/windows-x86_64\" \"-target\" \"i686-none-linux-android\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-fPIC\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-g\" \"-fno-exceptions\" \"-fno-rtti\" \"-O0\" \"-UNDEBUG\" \"-fno-limit-debug-info\" \"-ID:/Tools/OpenCV-android-sdk/sdk/native/jni/include/opencv\" \"-ID:/Tools/OpenCV-android-sdk/sdk/native/jni/include\" \"-ID:/Tools/AndroidSDK/ndk-bundle/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\" \"-ID:/Tools/AndroidSDK/ndk-bundle/build//../sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include\" \"-ID:/Tools/AndroidSDK/ndk-bundle/build//../sources/cxx-stl/gnu-libstdc++/4.9/include/backward\" \"-ID:/study/Android/mtcnnandroid/openCVTutorial2MixedProcessing/src/main/jni\" \"-frtti\" \"-fexceptions\" \"-fexceptions\" \"-frtti\" \"-DANDROID\" \"-fPIC\" \"-DANDROID\" \"-fsigned-char\" \"-std\u003dc++11\" \"-D__ANDROID_API__\u003d14\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-mstackrealign\" \"-frtti\" \"-fexceptions\" \"--sysroot\" \"D:/Tools/AndroidSDK/ndk-bundle/build//../sysroot\" \"-isystem\" \"D:/Tools/AndroidSDK/ndk-bundle/build//../sysroot/usr/include/i686-linux-android\""
+        },
+        {
+          "src": "D:\\study\\Android\\mtcnnandroid\\openCVTutorial2MixedProcessing\\src\\main\\jni\\mtcnnDetect.cpp",
+          "flags": "\"-gcc-toolchain\" \"D:/Tools/AndroidSDK/ndk-bundle/build//../toolchains/x86-4.9/prebuilt/windows-x86_64\" \"-target\" \"i686-none-linux-android\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-fPIC\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-g\" \"-fno-exceptions\" \"-fno-rtti\" \"-O0\" \"-UNDEBUG\" \"-fno-limit-debug-info\" \"-ID:/Tools/OpenCV-android-sdk/sdk/native/jni/include/opencv\" \"-ID:/Tools/OpenCV-android-sdk/sdk/native/jni/include\" \"-ID:/Tools/AndroidSDK/ndk-bundle/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\" \"-ID:/Tools/AndroidSDK/ndk-bundle/build//../sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include\" \"-ID:/Tools/AndroidSDK/ndk-bundle/build//../sources/cxx-stl/gnu-libstdc++/4.9/include/backward\" \"-ID:/study/Android/mtcnnandroid/openCVTutorial2MixedProcessing/src/main/jni\" \"-frtti\" \"-fexceptions\" \"-fexceptions\" \"-frtti\" \"-DANDROID\" \"-fPIC\" \"-DANDROID\" \"-fsigned-char\" \"-std\u003dc++11\" \"-D__ANDROID_API__\u003d14\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-mstackrealign\" \"-frtti\" \"-fexceptions\" \"--sysroot\" \"D:/Tools/AndroidSDK/ndk-bundle/build//../sysroot\" \"-isystem\" \"D:/Tools/AndroidSDK/ndk-bundle/build//../sysroot/usr/include/i686-linux-android\""
+        },
+        {
+          "src": "D:\\study\\Android\\mtcnnandroid\\openCVTutorial2MixedProcessing\\src\\main\\jni\\network.cpp",
+          "flags": "\"-gcc-toolchain\" \"D:/Tools/AndroidSDK/ndk-bundle/build//../toolchains/x86-4.9/prebuilt/windows-x86_64\" \"-target\" \"i686-none-linux-android\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-fPIC\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-g\" \"-fno-exceptions\" \"-fno-rtti\" \"-O0\" \"-UNDEBUG\" \"-fno-limit-debug-info\" \"-ID:/Tools/OpenCV-android-sdk/sdk/native/jni/include/opencv\" \"-ID:/Tools/OpenCV-android-sdk/sdk/native/jni/include\" \"-ID:/Tools/AndroidSDK/ndk-bundle/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\" \"-ID:/Tools/AndroidSDK/ndk-bundle/build//../sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include\" \"-ID:/Tools/AndroidSDK/ndk-bundle/build//../sources/cxx-stl/gnu-libstdc++/4.9/include/backward\" \"-ID:/study/Android/mtcnnandroid/openCVTutorial2MixedProcessing/src/main/jni\" \"-frtti\" \"-fexceptions\" \"-fexceptions\" \"-frtti\" \"-DANDROID\" \"-fPIC\" \"-DANDROID\" \"-fsigned-char\" \"-std\u003dc++11\" \"-D__ANDROID_API__\u003d14\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-mstackrealign\" \"-frtti\" \"-fexceptions\" \"--sysroot\" \"D:/Tools/AndroidSDK/ndk-bundle/build//../sysroot\" \"-isystem\" \"D:/Tools/AndroidSDK/ndk-bundle/build//../sysroot/usr/include/i686-linux-android\""
+        },
+        {
+          "src": "D:\\study\\Android\\mtcnnandroid\\openCVTutorial2MixedProcessing\\src\\main\\jni\\pBox.cpp",
+          "flags": "\"-gcc-toolchain\" \"D:/Tools/AndroidSDK/ndk-bundle/build//../toolchains/x86-4.9/prebuilt/windows-x86_64\" \"-target\" \"i686-none-linux-android\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-fPIC\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-g\" \"-fno-exceptions\" \"-fno-rtti\" \"-O0\" \"-UNDEBUG\" \"-fno-limit-debug-info\" \"-ID:/Tools/OpenCV-android-sdk/sdk/native/jni/include/opencv\" \"-ID:/Tools/OpenCV-android-sdk/sdk/native/jni/include\" \"-ID:/Tools/AndroidSDK/ndk-bundle/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\" \"-ID:/Tools/AndroidSDK/ndk-bundle/build//../sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include\" \"-ID:/Tools/AndroidSDK/ndk-bundle/build//../sources/cxx-stl/gnu-libstdc++/4.9/include/backward\" \"-ID:/study/Android/mtcnnandroid/openCVTutorial2MixedProcessing/src/main/jni\" \"-frtti\" \"-fexceptions\" \"-fexceptions\" \"-frtti\" \"-DANDROID\" \"-fPIC\" \"-DANDROID\" \"-fsigned-char\" \"-std\u003dc++11\" \"-D__ANDROID_API__\u003d14\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-mstackrealign\" \"-frtti\" \"-fexceptions\" \"--sysroot\" \"D:/Tools/AndroidSDK/ndk-bundle/build//../sysroot\" \"-isystem\" \"D:/Tools/AndroidSDK/ndk-bundle/build//../sysroot/usr/include/i686-linux-android\""
+        }
+      ],
+      "output": "D:\\study\\Android\\mtcnnandroid\\openCVTutorial2MixedProcessing\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\x86\\libmtcnn.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-x86": {
+      "cppCompilerExecutable": "D:\\Tools\\AndroidSDK\\ndk-bundle\\build\\..\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

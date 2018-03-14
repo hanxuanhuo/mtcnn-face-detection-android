@@ -1,0 +1,165 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:2:1-61:12
+MERGED from [:openCVLibrary331] D:\study\Android\mtcnnandroid\openCVLibrary331\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\e3c1a0fd7352f688182950b36d8826c2\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\20f164f484d7fd8b9ec8d59835b45407\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\76baa6f47c25d60e35b9a960cbabe7b7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\1eb2144ff002de39418e7ba7b7d002e3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\37125b7666623a51bf9f2384c41956a0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:2:1-61:12
+	package
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml
+		INJECTED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:5:5-31
+		INJECTED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml
+		INJECTED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml
+		INJECTED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:7:5-44
+INJECTED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:7:5-44
+INJECTED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:7:5-44
+MERGED from [:openCVLibrary331] D:\study\Android\mtcnnandroid\openCVLibrary331\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:openCVLibrary331] D:\study\Android\mtcnnandroid\openCVLibrary331\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\e3c1a0fd7352f688182950b36d8826c2\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\e3c1a0fd7352f688182950b36d8826c2\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\20f164f484d7fd8b9ec8d59835b45407\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\20f164f484d7fd8b9ec8d59835b45407\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\76baa6f47c25d60e35b9a960cbabe7b7\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\76baa6f47c25d60e35b9a960cbabe7b7\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\1eb2144ff002de39418e7ba7b7d002e3\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\1eb2144ff002de39418e7ba7b7d002e3\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\37125b7666623a51bf9f2384c41956a0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\37125b7666623a51bf9f2384c41956a0\AndroidManifest.xml:20:5-43
+INJECTED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:7:5-44
+INJECTED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:7:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\e3c1a0fd7352f688182950b36d8826c2\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:7:5-44
+		INJECTED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml
+		INJECTED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml
+supports-screens
+ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:9:5-14:39
+	android:largeScreens
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:11:9-36
+	android:smallScreens
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:14:9-36
+	android:normalScreens
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:12:9-37
+	android:resizeable
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:13:9-34
+	android:anyDensity
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:10:9-34
+uses-permission#android.permission.CAMERA
+ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:16:5-65
+	android:name
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:16:22-62
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:17:5-84
+	android:name
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:17:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:19:22-77
+uses-permission#android.permission.INTERNET
+ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:20:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:21:22-76
+uses-feature#android.hardware.camera
+ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:24:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:26:5-28:36
+	android:required
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:28:9-33
+	android:name
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:27:9-57
+uses-feature#android.hardware.camera.front
+ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:29:5-31:36
+	android:required
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:31:9-33
+	android:name
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:30:9-53
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:34:9-33
+	android:name
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:33:9-63
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:36:5-75
+	android:name
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:36:22-72
+application
+ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:38:5-59:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\e3c1a0fd7352f688182950b36d8826c2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\e3c1a0fd7352f688182950b36d8826c2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\20f164f484d7fd8b9ec8d59835b45407\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\20f164f484d7fd8b9ec8d59835b45407\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\76baa6f47c25d60e35b9a960cbabe7b7\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\76baa6f47c25d60e35b9a960cbabe7b7\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\1eb2144ff002de39418e7ba7b7d002e3\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\1eb2144ff002de39418e7ba7b7d002e3\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\37125b7666623a51bf9f2384c41956a0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\37125b7666623a51bf9f2384c41956a0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:40:9-30
+	android:icon
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:39:9-40
+	android:theme
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:41:9-67
+activity#org.opencv.samples.mtcnn.Tutorial2Activity
+ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:42:9-54:20
+	android:screenOrientation
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:46:13-50
+	android:label
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:45:13-45
+	android:configChanges
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:44:13-63
+	android:name
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:43:13-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:48:13-52:29
+action#android.intent.action.MAIN
+ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:49:17-69
+	android:name
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:49:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:51:27-74
+activity#org.opencv.samples.mtcnn.DownLoadActivity
+ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:55:9-58:20
+	android:theme
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:56:13-69
+	android:name
+		ADDED from D:\study\Android\mtcnnandroid\MTCNN\src\main\AndroidManifest.xml:55:19-51

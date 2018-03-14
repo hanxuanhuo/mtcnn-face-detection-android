@@ -1,0 +1,67 @@
+
+{
+	"buildFiles" : 
+	[
+		"D:/study/Android/mtcnnandroid/openCVTutorial2MixedProcessing/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"D:\\Tools\\AndroidSDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\study\\Android\\mtcnnandroid\\openCVTutorial2MixedProcessing\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"mtcnn-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "mtcnn",
+			"buildCommand" : "D:\\Tools\\AndroidSDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\study\\Android\\mtcnnandroid\\openCVTutorial2MixedProcessing\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target mtcnn",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=D:/Tools/AndroidSDK/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/Tools/AndroidSDK/ndk-bundle/sysroot  -Dmtcnn_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\include -I..\\..\\..\\..\\src\\main\\cpp -isystem D:\\Tools\\AndroidSDK\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem D:\\Tools\\AndroidSDK\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi-v7a\\include -isystem D:\\Tools\\AndroidSDK\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem D:/Tools/AndroidSDK/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -marm -Wa,--noexecstack -Wformat -Werror=format-security -frtti -fexceptions  -O3 -fPIC  -W -Wall -fPIC   -std=c++11  -c ",
+					"src" : "D:/study/Android/mtcnnandroid/openCVTutorial2MixedProcessing/src/main/cpp/mtcnnDetect.cpp",
+					"workingDirectory" : "D:/study/Android/mtcnnandroid/openCVTutorial2MixedProcessing/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=D:/Tools/AndroidSDK/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/Tools/AndroidSDK/ndk-bundle/sysroot  -Dmtcnn_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\include -I..\\..\\..\\..\\src\\main\\cpp -isystem D:\\Tools\\AndroidSDK\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem D:\\Tools\\AndroidSDK\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi-v7a\\include -isystem D:\\Tools\\AndroidSDK\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem D:/Tools/AndroidSDK/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -marm -Wa,--noexecstack -Wformat -Werror=format-security -frtti -fexceptions  -O3 -fPIC  -W -Wall -fPIC   -std=c++11  -c ",
+					"src" : "D:/study/Android/mtcnnandroid/openCVTutorial2MixedProcessing/src/main/cpp/mtcnn.cpp",
+					"workingDirectory" : "D:/study/Android/mtcnnandroid/openCVTutorial2MixedProcessing/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=D:/Tools/AndroidSDK/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/Tools/AndroidSDK/ndk-bundle/sysroot  -Dmtcnn_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\include -I..\\..\\..\\..\\src\\main\\cpp -isystem D:\\Tools\\AndroidSDK\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem D:\\Tools\\AndroidSDK\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi-v7a\\include -isystem D:\\Tools\\AndroidSDK\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem D:/Tools/AndroidSDK/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -marm -Wa,--noexecstack -Wformat -Werror=format-security -frtti -fexceptions  -O3 -fPIC  -W -Wall -fPIC   -std=c++11  -c ",
+					"src" : "D:/study/Android/mtcnnandroid/openCVTutorial2MixedProcessing/src/main/cpp/network.cpp",
+					"workingDirectory" : "D:/study/Android/mtcnnandroid/openCVTutorial2MixedProcessing/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=D:/Tools/AndroidSDK/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/Tools/AndroidSDK/ndk-bundle/sysroot  -Dmtcnn_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\include -I..\\..\\..\\..\\src\\main\\cpp -isystem D:\\Tools\\AndroidSDK\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem D:\\Tools\\AndroidSDK\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi-v7a\\include -isystem D:\\Tools\\AndroidSDK\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem D:/Tools/AndroidSDK/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -marm -Wa,--noexecstack -Wformat -Werror=format-security -frtti -fexceptions  -O3 -fPIC  -W -Wall -fPIC   -std=c++11  -c ",
+					"src" : "D:/study/Android/mtcnnandroid/openCVTutorial2MixedProcessing/src/main/cpp/pBox.cpp",
+					"workingDirectory" : "D:/study/Android/mtcnnandroid/openCVTutorial2MixedProcessing/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				}
+			],
+			"output" : "D:/study/Android/mtcnnandroid/openCVTutorial2MixedProcessing/build/intermediates/cmake/debug/obj/armeabi-v7a/libmtcnn.so",
+			"toolchain" : "2472940393"
+		},
+		"openblas_lib-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "openblas_lib",
+			"buildType" : "debug",
+			"output" : "D:/study/Android/mtcnnandroid/openCVTutorial2MixedProcessing/src/main/jniLibs/armeabi-v7a/libopenblas.a",
+			"toolchain" : "2472940393"
+		}
+	},
+	"toolchains" : 
+	{
+		"2472940393" : 
+		{
+			"cCompilerExecutable" : "D:/Tools/AndroidSDK/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "D:/Tools/AndroidSDK/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

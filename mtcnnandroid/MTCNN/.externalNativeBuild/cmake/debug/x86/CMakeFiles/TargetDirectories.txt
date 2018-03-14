@@ -1,0 +1,3 @@
+D:/study/Android/mtcnnandroid/openCVTutorial2MixedProcessing/.externalNativeBuild/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+D:/study/Android/mtcnnandroid/openCVTutorial2MixedProcessing/.externalNativeBuild/cmake/debug/x86/CMakeFiles/mtcnn.dir
+D:/study/Android/mtcnnandroid/openCVTutorial2MixedProcessing/.externalNativeBuild/cmake/debug/x86/CMakeFiles/edit_cache.dir

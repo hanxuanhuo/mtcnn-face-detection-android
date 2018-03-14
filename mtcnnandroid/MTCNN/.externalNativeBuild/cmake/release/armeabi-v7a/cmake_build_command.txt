@@ -1,0 +1,19 @@
+Executable : D:\Tools\AndroidSDK\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HD:\study\Android\mtcnnandroid\openCVTutorial2MixedProcessing
+-BD:\study\Android\mtcnnandroid\openCVTutorial2MixedProcessing\.externalNativeBuild\cmake\release\armeabi-v7a
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_PLATFORM=android-14
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\study\Android\mtcnnandroid\openCVTutorial2MixedProcessing\build\intermediates\cmake\release\obj\armeabi-v7a
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=D:\Tools\AndroidSDK\ndk-bundle
+-DCMAKE_TOOLCHAIN_FILE=D:\Tools\AndroidSDK\ndk-bundle\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=D:\Tools\AndroidSDK\cmake\3.6.4111459\bin\ninja.exe
+-GAndroid Gradle - Ninja
+-DANDROID_TOOLCHAIN=clang
+-DANDROID_PLATFORM=android-14
+-DANDROID_STL=gnustl_static
+-DANDROID_CPP_FEATURES=rtti exceptions
+-DANDROID_ARM_MODE=arm
+jvmArgs : 
+

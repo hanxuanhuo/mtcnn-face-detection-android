@@ -1,0 +1,4 @@
+#Mon Mar 12 14:03:36 CST 2018
+base.0=D\:\\study\\Android\\mtcnnandroid\\MTCNN\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
